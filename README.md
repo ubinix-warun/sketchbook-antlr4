@@ -1,2 +1,10 @@
 # sketchbook-antlr4
-Learning Promela, ANTLR4 and Sketch It 
+Learning ANTLR4, XML and Sketch It
+
+## ATOM plugin
+
+* language-antlr4
+* terminal-panel
+* git-control
+* tree-view-git-status
+* minimap
